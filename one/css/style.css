@@ -1,0 +1,56 @@
+.header{
+	font-size: 20px;
+	line-height: 1.5;
+	margin-bottom: 50px;
+}
+.header span{
+	display:block;
+}
+
+.form-header, .section-header {
+	font-size: 20px;
+	font-weight: 900;
+	margin-bottom: 30px;
+}
+.form{
+	border:solid blue 3px;
+	padding: 30px 20px;
+}
+.form-btn{
+	margin: 10px auto;
+	margin-top: 25px;
+	background-color: blue;
+}
+.form-btn:hover{
+	background-color: white;
+	color: blue;
+
+}
+.form-input{
+	margin: 10px auto;
+}
+.section{
+	padding: 30px 0;
+}
+.future{
+	margin: 30px auto;
+}
+	
+}
+.future-box p{
+	margin-top: 20px;
+}
+.future-btn{
+	margin:50px auto;
+	width: 300px;
+}
+.video{
+	margin-bottom:30px;
+
+}
+.future-box{
+	margin:10px auto;
+}
+.section{
+	background-color: #d0fbf2;
+}
